@@ -57,7 +57,7 @@ function makeSound(key) {
       break;
 
     case "m":
-      wajinga = new Audio("sounds/Watu si Wajinga Buana.mp3");
+      wajinga = new Audio("sounds/Watu si Wajinga buana.mp3");
       wajinga.play();
       break;
 
